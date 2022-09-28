@@ -9,10 +9,10 @@
 - ...
 # Danh sách thành viên:
 ## Các thành viên
-| MSSV | Họ tên |
-| --- | ----------- |
-| 20521729 | Nguyễn Triệu Kim Oanh |
-| 20521714 | Nguyễn Phan Uyển Nhi |
-| 20520512 | Đỗ Tài Hân Hoan |
-| 19521705 | Vũ Đình Khoa |
-| 20521747 | Nguyễn Văn Đức Phong |
+| MSSV | Họ tên |Nhiệm vụ|
+| --- | ----------- |----|
+| 20521729 | Nguyễn Triệu Kim Oanh ||
+| 20521714 | Nguyễn Phan Uyển Nhi ||
+| 20520512 | Đỗ Tài Hân Hoan ||
+| 19521705 | Vũ Đình Khoa ||
+| 20521747 | Nguyễn Văn Đức Phong ||
